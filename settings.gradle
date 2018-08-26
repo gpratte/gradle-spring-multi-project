@@ -1,0 +1,2 @@
+rootProject.name = 'multi2'
+include 'application'
